@@ -28,5 +28,5 @@ A software developer and software engineering student in UPC, and I'm passionate
 <br />
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yoimer-Davila&show_icons=true&theme=radical" alt="Davila Yoimer GitHub stats" height="180em"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoimer-Davila&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=6" alt="Davila Yoimer Top Languages">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoimer-Davila&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=6" alt="Davila Yoimer Top Languages">-->
 </p>
